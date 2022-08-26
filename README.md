@@ -10,9 +10,14 @@ Developed by Lynn Hazan (main developer), Montel Laurent (qt3 to qt4/5 porting),
 
 Compile software on Ubuntu 20.04
 
+## Documentation
+For more information about this software please read:
+
+- [Neuroscope handbook](http://neuroscope.sourceforge.net/UserManual/index.html)
+
 ## Compile guide
 
-  1. Install [libneurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compilling Neuroscope 
+  1. Install [Libneurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compiling Neuroscope 
   
   2. Go to `/Neuroscope` directory and type:
   ```
