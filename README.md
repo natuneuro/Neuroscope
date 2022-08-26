@@ -12,7 +12,7 @@ Compile software on Ubuntu 20.04
 
 ## Compile guide
 
-  1. Install [libneurosuite]() and [LibKlustersShare]() before compilling Neuroscope 
+  1. Install [libneurosuite](https://github.com/natuneuro/neurosuite) and [LibKlustersShared](https://github.com/natuneuro/LibKlustersShared) before compilling Neuroscope 
   
   2. Go to `/Neuroscope` directory and type:
   ```
